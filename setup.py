@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name='parsezeeklogs',
-    version='2.0.1',
+    version='2.0.2',
     description='A lightweight utility for programmatically reading and manipulating Zeek IDS (Bro IDS) log files and outputting into JSON or CSV format.',
     author='Dan Gunter',
     author_email='dangunter@gmail.com',
